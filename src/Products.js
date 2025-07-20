@@ -5,19 +5,19 @@ const products = [
     title: 'Beauty Tweezers',
     icon: '💄',
     desc: ' High-precision tweezers for beauty professionals and brands.',
-    img: '/images/A7401543.JPG'
+    img: '/images/a7401543.jpg'
   },
   {
     title: 'Precision Tool Sets',
     icon: '🛠️',
     desc: ' Comprehensive sets of precision tools for various applications, crafted for quality and durability.',
-    img: '/images/A7401498.JPG'
+    img: '/images/a7401498.jpg'
   },
   {
     title: 'Private Label & Custom Packaging',
     icon: '📦',
     desc: ' Custom branding and packaging solutions for your business.',
-    img: '/images/A7401511.JPG'
+    img: '/images/a7401511.jpg'
   }
 ];
 
