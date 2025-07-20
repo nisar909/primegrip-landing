@@ -52,7 +52,7 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto flex items-center justify-between px-4" style={{ height: '100%' }}>
         <a href="/" className="flex items-center" aria-label="Home">
           <img
-            src="/images/mainIcon.png"
+            src="/images/mainicon.png"
             alt="PrimeGrip Exports Logo"
             className="h-24 w-24 max-h-full max-w-full object-contain p-1"
             style={{ display: 'block' }}
