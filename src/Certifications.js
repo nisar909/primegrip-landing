@@ -3,7 +3,7 @@ import React from 'react';
 const certifications = [
   {
     img: '/images/iso9001.png',
-    title: 'ISO 9001:2015 Certified',
+    title: 'SCCI(Sialkot) Certified',
     desc: 'Quality management system certified for international standards.'
   },
   {
