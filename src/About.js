@@ -8,17 +8,17 @@ const slides = [
     text: 'PrimeGrip Exports is a Sialkot, Pakistan-based manufacturer specializing in custom tweezers and precision tools. We combine decades of craftsmanship with modern technology to deliver products tailored to your brand, with a focus on quality, reliability, and client satisfaction.'
   },
   {
-    img: '/images/A7401545.JPG',
+    img: '/images/a7401545.jpg',
     title: 'Our Mission',
     text: "To deliver world-class custom tweezers and precision tools tailored to your brand's needs. We believe in quality, innovation, and client-focused solutions."
   },
   {
-    img: '/images/A7401511.JPG',
+    img: '/images/a7401511.jpg',
     title: 'Why Choose Us?',
     text: 'We offer end-to-end customization, from design and branding to packaging, ensuring your products stand out in the market.'
   },
   {
-    img: '/images/A7401498.JPG',
+    img: '/images/a7401498.jpg',
     title: 'Global Reach',
     text: 'Trusted by businesses worldwide, our commitment to excellence and reliability makes us your ideal export partner.'
   }
