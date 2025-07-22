@@ -13,10 +13,10 @@ const Contact = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
     emailjs.send(
-      'PG_info',      // Replace with your EmailJS service ID
-      'PG-Auto',     // Replace with your EmailJS template ID
+      'pg-auto-reply',      // Replace with your EmailJS service ID
+      'template_v9729vj',     // Replace with your EmailJS template ID
       form,
-      'a8ZqvPvKYaT9lhfVY'          // Replace with your EmailJS user/public key
+      'QxuUEXFnptJIa3N6-'          // Replace with your EmailJS user/public key
     ).then(
       (result) => {
         setSubmitted(true);
