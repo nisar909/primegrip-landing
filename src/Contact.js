@@ -14,7 +14,7 @@ const Contact = () => {
     e.preventDefault();
     emailjs.send(
       'pg-auto-reply',      // Replace with your EmailJS service ID
-      'template_v9729vj',     // Replace with your EmailJS template ID
+      'template_6vx9gxf',     // Replace with your EmailJS template ID
       form,
       'QxuUEXFnptJIa3N6-'          // Replace with your EmailJS user/public key
     ).then(
